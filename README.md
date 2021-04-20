@@ -2,6 +2,9 @@
 ### I`m currently learning Python and trying to use it in my thesis. 🔭
 ### In the future I`d like to work with computer vision as a Python-programmer, or try to work as a DevOps engineer. 🌱
 ### I like learning new things and self-improving, so I am sure that everything mentioned above – will not be a problem for me. 😄
+
+[![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Propok)
+[![Cloud](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrey-dmitriev-628295206/)
 <!--
 **Propok19/Propok19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
