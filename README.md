@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I`m currently learning Python and trying to use it in my thesis. 🔭
-### In the future I`d like to work with computer vision as a Python-programmer, or try to work as a DevOps engineer. 🌱
+### I`m currently learning Python. 🔭
+### In the future I`d like to work as a DevOps engineer, or try to work with computer vision as a Python-programmer. 🌱
 ### I like learning new things and self-improving, so I am sure that everything mentioned above – will not be a problem for me. 😄
 
 [![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Propok)
