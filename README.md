@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I`m currently learning Python. 🔭
-### In the future I`d like to work as a DevOps engineer, or try to work with computer vision as a Python-programmer. 🌱
+### I`m currently working with Python and Django. 🔭
+### In the future I`d like to learn C++ and switch to Software Engineer. I hope that my experience in Web Development will be useful, when I'll be Software Engineer. 🌱
 ### I like learning new things and self-improving, so I am sure that everything mentioned above – will not be a problem for me. 😄
 
 [![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Propok)
